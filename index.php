@@ -39,9 +39,10 @@ try {
  * Find your timezone here
  * http://php.net/manual/en/timezones.php
  */
-	$timezone = "America/Santiago";
-	if(function_exists('date_default_timezone_set')) date_default_timezone_set($timezone);
+	$timezone = "America/Mexico_City";
+	if (function_exists('date_default_timezone_set')) date_default_timezone_set($timezone);
 	define('TIMEZONE', $timezone);
+
 
 /*
  * --------------------------------------------------------------------
