@@ -17,7 +17,7 @@
 		"zendframework/zend-barcode": "^2.5",
 		"endroid/qr-code": "^4.6",
 		"bacon/bacon-qr-code": "^2.0",
-		"chillerlan/php-qrcode": "^5.0",
+		"chillerlan/php-qrcode": "3.4.1",
 		"simplesoftwareio/simple-qrcode": "^4.2"
 	}
 }
